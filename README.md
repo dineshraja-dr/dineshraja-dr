@@ -45,8 +45,6 @@ From exploring how neural networks can be accelerated in hardware to experimenti
 - [Engineering Roles](#-engineering-roles)
 - [Technical Stack](#-technical-stack)
 - [Featured Projects](#-featured-projects)
-- [Engineering Workflow](#-engineering-workflow)
-- [Current Learning Roadmap](#-current-learning-roadmap)
 - [GitHub Statistics](#-github-statistics)
 - [Connect With Me](#-connect-with-me)
 
@@ -259,45 +257,7 @@ A predictive-maintenance project that explores the use of sensor data and machin
 
 ---
 
-## 🔄 Engineering Workflow
 
-My preferred approach is to move from a clearly defined problem to a tested implementation, rather than relying only on a project demonstration.
-
-```mermaid
-flowchart TD
-    A[Define the Engineering Problem] --> B[Study Fundamentals]
-    B --> C[Design the System]
-    C --> D[Implement Software or RTL]
-    D --> E[Build Test Cases]
-    E --> F[Simulate and Debug]
-    F --> G[Measure Results]
-    G --> H{Requirements Met?}
-    H -- No --> C
-    H -- Yes --> I[Document and Publish]
-```
-
-For AI-and-hardware projects, the workflow also includes comparing reference outputs, checking implementation constraints, and recording the limitations of each experiment.
-
----
-
-## 📚 Current Learning Roadmap
-
-My learning roadmap connects software fundamentals with AI and hardware implementation.
-
-- [ ] Strengthen Python fundamentals, functions, OOP, and testing.
-- [ ] Practice data structures and algorithms consistently.
-- [ ] Improve SQL and relational database fundamentals.
-- [ ] Build reliable REST APIs using FastAPI or Flask.
-- [ ] Strengthen Verilog RTL, simulation, and testbench design.
-- [ ] Learn FPGA synthesis and timing-analysis fundamentals.
-- [ ] Study machine learning evaluation and deep learning fundamentals.
-- [ ] Explore quantization and efficient edge inference.
-- [ ] Improve embedded C, peripheral communication, and firmware debugging.
-- [ ] Publish reproducible projects with documentation, tests, and measured results.
-
-**Long-term goal:** Build a strong foundation in AI systems and hardware-software co-design, then apply it to efficient edge intelligence and AI acceleration.
-
----
 
 ## 📊 GitHub Statistics
 
