@@ -313,11 +313,6 @@ My learning roadmap connects software fundamentals with AI and hardware implemen
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=dineshraja-dr&style=flat-square&color=00E5FF" alt="Profile views"/>
-
-</div>
-
-<sub>Statistics and widgets are provided by third-party services and may be unavailable temporarily. Language statistics reflect repository contents, not necessarily proficiency.</sub>
 
 ---
 
