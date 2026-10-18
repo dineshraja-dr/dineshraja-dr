@@ -3,7 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=DINESH%20RAJA%20S&fontSize=52&fontColor=00E5FF&stroke=00E5FF&strokeWidth=1&animation=fadeIn&color=0:0B1020,100:101B3D" width="100%" alt="Dinesh Raja S profile banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=850&lines=Electronics+%26+Communication+Engineer;AI+Systems+%7C+VLSI+%7C+FPGA+%7C+Edge+AI;Hardware-Software+Co-Design;Embedded+Firmware+%26+Intelligent+Systems;Building+Projects+at+the+Intersection+of+AI+and+Hardware" alt="Animated engineering interests" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=850&lines=Electronics+Engineer;AI+Systems+%7C+VLSI+%7C+FPGA+%7C+Edge+AI;Hardware-Software+Co-Design;Embedded+Firmware+%26+Intelligent+Systems;Building+Projects+at+the+Intersection+of+AI+and+Hardware" alt="Animated engineering interests" />
 
 <p>
   <a href="https://github.com/dineshraja-dr">
@@ -174,7 +174,7 @@ These are the engineering areas I am exploring and working toward. They describe
 - VS Code and command-line workflows.
 - Simulation, debugging, and project documentation.
 
-<sub>Technology lists represent a combination of hands-on use, project experience, and ongoing learning. They do not imply equal proficiency across every tool.</sub>
+
 
 ---
 
